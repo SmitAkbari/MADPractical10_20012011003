@@ -25,5 +25,5 @@ To Generate JSON Data, Refer: https://app.json-generator.com/
 10.Use Material 3 design for UI
 
 ![image](https://user-images.githubusercontent.com/110647839/202521895-f408dbd7-a779-4a06-9ada-f18b1e9fec6a.png)
-![image](https://user-images.githubusercontent.com/110647839/202521934-29ddde84-3fe3-4745-8325-143f531624d1.png)
-![image](https://user-images.githubusercontent.com/110647839/202521947-655c4911-f624-4d27-9a13-929b532b6a4b.png)
+<img src="https://user-images.githubusercontent.com/110647839/202521934-29ddde84-3fe3-4745-8325-143f531624d1.png" widht="300" height="500"/>
+<img src="https://user-images.githubusercontent.com/110647839/202521947-655c4911-f624-4d27-9a13-929b532b6a4b.png" widht="300" height="500"/>
